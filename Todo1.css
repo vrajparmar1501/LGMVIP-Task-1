@@ -38,3 +38,9 @@ button{
     font-size: 15px;
     padding: 10px;
  }
+footer{
+    color: blue;
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 20px;
+}
